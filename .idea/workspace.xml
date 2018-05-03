@@ -11,7 +11,17 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cea6f1f-8106-4560-8709-4e0a71b73ba6" name="Default" comment="" />
+    <list default="true" id="0cea6f1f-8106-4560-8709-4e0a71b73ba6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/LoginActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/LoginActivity.java" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +46,7 @@
       <file leaf-file-name="SignUpActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/SignUpActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
+            <state relative-caret-position="-144">
               <caret line="89" column="81" lean-forward="false" selection-start-line="89" selection-start-column="81" selection-end-line="89" selection-end-column="81" />
               <folding>
                 <element signature="method#selectImage#0;class#SignUpActivity#0" expanded="false" />
@@ -47,24 +57,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="84" column="38" lean-forward="true" selection-start-line="83" selection-start-column="16" selection-end-line="84" selection-end-column="38" />
+            <state relative-caret-position="767">
+              <caret line="142" column="35" lean-forward="false" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
               <folding>
-                <element signature="e#1667#2758#0" expanded="true" />
-                <element signature="e#2757#2758#0" expanded="true" />
+                <element signature="e#1681#2772#0" expanded="true" />
+                <element signature="e#2771#2772#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FeedActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FeedActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/FeedActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="69" column="25" lean-forward="true" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+            <state relative-caret-position="630">
+              <caret line="69" column="25" lean-forward="false" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
               <folding>
                 <element signature="class#FetchFeedTask#0;class#FeedActivity#0" expanded="false" />
                 <element signature="method#feedParsing#0;class#FeedActivity#0" expanded="false" />
@@ -80,7 +90,7 @@
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -142,6 +152,9 @@
       <replace>tv_newsText</replace>
       <replace>iv_newsImage</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2195,13 +2208,13 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_feeds.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/FeedsAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/LoginActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/SignUpActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/Adapter/FeedsAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/POJO/Feed.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/POJO/User.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/FeedActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/LoginActivity.java" />
       </list>
     </option>
   </component>
@@ -2211,6 +2224,7 @@
     <option name="width" value="1276" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -2618,7 +2632,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32844576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2700,8 +2714,8 @@
         <state relative-caret-position="480">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <element signature="e#1667#2758#0" expanded="true" />
-            <element signature="e#2757#2758#0" expanded="true" />
+            <element signature="e#1681#2772#0" expanded="true" />
+            <element signature="e#2771#2772#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2749,8 +2763,8 @@
         <state relative-caret-position="150">
           <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="e#1667#2758#0" expanded="true" />
-            <element signature="e#2757#2758#0" expanded="true" />
+            <element signature="e#1681#2772#0" expanded="true" />
+            <element signature="e#2771#2772#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2786,8 +2800,8 @@
         <state relative-caret-position="150">
           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="e#1667#2758#0" expanded="true" />
-            <element signature="e#2757#2758#0" expanded="true" />
+            <element signature="e#1681#2772#0" expanded="true" />
+            <element signature="e#2771#2772#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3015,18 +3029,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/SignUpActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="89" column="81" lean-forward="false" selection-start-line="89" selection-start-column="81" selection-end-line="89" selection-end-column="81" />
-          <folding>
-            <element signature="method#selectImage#0;class#SignUpActivity#0" expanded="false" />
-            <element signature="method#onRequestPermissionsResult#0;class#SignUpActivity#0" expanded="false" />
-            <element signature="method#onActivityResult#0;class#SignUpActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/Adapter/FeedsAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -3057,29 +3059,41 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/LoginActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/SignUpActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="84" column="38" lean-forward="true" selection-start-line="83" selection-start-column="16" selection-end-line="84" selection-end-column="38" />
+        <state relative-caret-position="-144">
+          <caret line="89" column="81" lean-forward="false" selection-start-line="89" selection-start-column="81" selection-end-line="89" selection-end-column="81" />
           <folding>
-            <element signature="e#1667#2758#0" expanded="true" />
-            <element signature="e#2757#2758#0" expanded="true" />
+            <element signature="method#selectImage#0;class#SignUpActivity#0" expanded="false" />
+            <element signature="method#onRequestPermissionsResult#0;class#SignUpActivity#0" expanded="false" />
+            <element signature="method#onActivityResult#0;class#SignUpActivity#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/FeedActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="69" column="25" lean-forward="true" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+        <state relative-caret-position="630">
+          <caret line="69" column="25" lean-forward="false" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
           <folding>
             <element signature="class#FetchFeedTask#0;class#FeedActivity#0" expanded="false" />
             <element signature="method#feedParsing#0;class#FeedActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lakshya/readthefeed/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="142" column="35" lean-forward="false" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
+          <folding>
+            <element signature="e#1681#2772#0" expanded="true" />
+            <element signature="e#2771#2772#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -28,8 +28,8 @@ public class LoginActivity extends AppCompatActivity {
     private String retrievedPassword;
     private String checkMobileNumber;
     private String key;
-    private int count = 0;
-    private int flag=0;
+    private static int count = 0;
+    private static int flag=0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
