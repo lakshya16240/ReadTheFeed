@@ -28,6 +28,8 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageReference;
 
 import java.io.IOException;
 
@@ -49,7 +51,6 @@ public class SignUpActivity extends AppCompatActivity {
     private Context context = this;
 
     private DatabaseReference userDatabase;
-    //private FirebaseAuth mAuth;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -57,7 +58,6 @@ public class SignUpActivity extends AppCompatActivity {
         setContentView(R.layout.activity_sign_up);
 
         userDatabase = FirebaseDatabase.getInstance().getReference("users");
-        //mAuth = FirebaseAuth.getInstance();
 
         et_phoneSignUp = findViewById(R.id.et_phoneSignUp);
         et_passwordSignUp = findViewById(R.id.et_passwordSignUp);
@@ -79,7 +79,6 @@ public class SignUpActivity extends AppCompatActivity {
                 gender = et_gender.getText().toString().trim();
 
                 Boolean validation = validate(name, email, age, phoneSignUp, gender);
-                //createUser(phoneSignUp,passwordSignUp);
 
                 if (validation) {
 
@@ -89,6 +88,7 @@ public class SignUpActivity extends AppCompatActivity {
                     Toast.makeText(SignUpActivity.this, "Signed up successfully", Toast.LENGTH_SHORT).show();
                     Intent intent = new Intent(SignUpActivity.this, LoginActivity.class );
                     startActivity(intent);
+                    finish();
                 }
 
             }
